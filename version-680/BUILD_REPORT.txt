@@ -1,0 +1,22 @@
+{
+  "movies_parsed": 2000,
+  "detail_files": 2000,
+  "category_files": 10,
+  "html_files": 2016,
+  "detail_ok": true,
+  "category_coverage_ok": true,
+  "baidu_missing_count": 0,
+  "missing_detail_links": 0,
+  "category_counts": {
+    "domestic-cinema": 200,
+    "hot-series": 200,
+    "high-score-movies": 200,
+    "suspense-crime": 200,
+    "romance-comedy": 200,
+    "action-sci-fi": 200,
+    "drama-family": 200,
+    "costume-fantasy": 200,
+    "documentary-sports": 200,
+    "global-selection": 200
+  }
+}
